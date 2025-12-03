@@ -1,0 +1,26 @@
+# Backend
+backend/firebase-credentials*.json
+backend/.env
+backend/integrator/
+backend/__pycache__/
+backend/*.pyc
+backend/venv/
+backend/env/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.vscode/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
